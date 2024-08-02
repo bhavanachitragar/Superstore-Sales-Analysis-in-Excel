@@ -43,7 +43,8 @@ The project involves creating an interactive Excel sales dashboard. Converting a
 
 
 #### Sanpshots:
- 
+ ![Screenshot 2024-08-02 153341](https://github.com/user-attachments/assets/16e350ff-2471-48b6-b6d8-dc526ec8fcea)
+
 
 
 ----------------------------------------------------------------
