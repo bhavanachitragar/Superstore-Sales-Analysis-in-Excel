@@ -1,7 +1,7 @@
 # Superstore Sales Analysis using Excel
 -------------------------------------------------------------
 
-The project involves creating an interactive Excel sales dashboard. Converting a dataset into an Excel table and formatting columns. Using PivotTables to generate insights such as total sales by year and profit by category. Inserting various charts based on these PivotTables to visually represent the data. Adding slicers to enable filtering of charts and tables, enhancing interactivity. Refining the dashboard layout, ensuring all elements are clearly labeled and the slicers work as intended, providing a comprehensive tool for analyzing sales dat
+The project involves creating an interactive Excel sales dashboard. Converting a dataset into an Excel table and formatting columns. Using PivotTables to generate insights such as total sales by year and profit by category. Inserting various charts based on these PivotTables to visually represent the data. Adding slicers to enable filtering of charts and tables, enhancing interactivity. Refining the dashboard layout, ensuring all elements are clearly labeled and the slicers work as intended, providing a comprehensive tool for analyzing sales data
 
 #### Sanpshots:
  ![Screenshot 2024-08-02 153341](https://github.com/user-attachments/assets/16e350ff-2471-48b6-b6d8-dc526ec8fcea)
@@ -19,7 +19,7 @@ The project involves creating an interactive Excel sales dashboard. Converting a
 - Using PivotTables to calculate other important metrics, such as profit margins, sales trends over time, and category performance.
 - Adding slicers to allow dynamic filtering of the data
 
-### 4. Insights:
+### 3. Insights:
 ##### Sales by Category:
 - Top Performing Categories: Phones (330,007.1), Chairs (328,449.13), and Storage (228,843.59) have the highest sales.
 - Low Performing Categories: Labels (7,532.14) and Fasteners (6,904.21) have the lowest sales.
